@@ -1,4 +1,4 @@
-This Repository contains configs files for neovim 
+# This Repository contains configs files for neovim 
 
 ## Make necessary directories with the following command 
 
@@ -29,3 +29,9 @@ This Repository contains configs files for neovim
 `:qa!`
 `nvim`
 
+## Info
+
+This has LPS support for lua and javascript
+and it also has git integration, treesitter,
+telescope and nvim-tree and it has auto completions
+it uses gruvbox theme (habamax is also good)
