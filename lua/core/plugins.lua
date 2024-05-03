@@ -22,6 +22,8 @@ return require("packer").startup(function(use)
 	use("bluz71/vim-nightfly-colors")
 	use("lewis6991/gitsigns.nvim")
   use("L3MON4D3/LuaSnip")
+  use("folke/tokyonight.nvim")
+  use("tpope/vim-fugitive")
   use({
 		"williamboman/mason.nvim",
 		"williamboman/mason-lspconfig.nvim",
